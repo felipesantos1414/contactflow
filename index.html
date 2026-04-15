@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ContactFlow</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="logo">📇</div>
+    <div>
+      <h1>ContactFlow</h1>
+      <p class="sub">Smart Contact Management System</p>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+
+  <div class="hero">
+    <div>
+      <h2>Fast Contact Management</h2>
+      <p>Search, filter and manage contacts quickly with a clean and efficient interface.</p>
+    </div>
+
+    <div class="hero-side">
+      <div class="mini"><strong id="totalContatos">0</strong><span>Total</span></div>
+      <div class="mini"><strong id="totalVereadores">0</strong><span>Primary</span></div>
+      <div class="mini"><strong id="totalAssessores">0</strong><span>Support</span></div>
+      <div class="mini"><strong id="ultimaAtualizacao">--</strong><span>Updated</span></div>
+    </div>
+  </div>
+
+  <div class="painel">
+
+    <div class="toolbar">
+      <button id="copiarTodos">Copy all</button>
+      <button onclick="window.print()">Print</button>
+      <button id="limpar">Clear</button>
+    </div>
+
+    <div class="filtros">
+      <input id="busca" placeholder="Search...">
+      <select id="tipo">
+        <option value="">All</option>
+        <option value="vereador">Primary</option>
+        <option value="assessor">Support</option>
+      </select>
+      <select id="ordenar">
+        <option value="">Sort</option>
+        <option value="nome">Name</option>
+      </select>
+    </div>
+
+    <div id="status"></div>
+
+  </div>
+
+  <div id="lista" class="grid"></div>
+
+</div>
+
+<div id="msg" class="msg"></div>
+
+<script src="app.js"></script>
+
+</body>
+</html>

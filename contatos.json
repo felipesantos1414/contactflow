@@ -1,0 +1,26 @@
+{
+  "ultimaAtualizacao": "15/04/2026",
+  "contatos": [
+    {
+      "tipo": "vereador",
+      "nome": "Ana Rita (Ana da Apama)",
+      "cargo": "Primary Contact",
+      "telefone": "51 95528-190",
+      "whatsapp": "555195528190"
+    },
+    {
+      "tipo": "vereador",
+      "nome": "Neco",
+      "cargo": "Primary Contact",
+      "telefone": "51 93484-167",
+      "whatsapp": "555193484167"
+    },
+    {
+      "tipo": "assessor",
+      "nome": "Fernando",
+      "cargo": "Support",
+      "telefone": "51 98839-775",
+      "whatsapp": "555198839775"
+    }
+  ]
+}
