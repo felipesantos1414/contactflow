@@ -35,12 +35,6 @@ This project was built as part of my transition into the tech field, focusing on
 
 ---
 
-## 📸 Preview
-
-*(Adicione um print do sistema aqui depois)*
-
----
-
 ## 🌐 Live Demo
 
 👉 https://felipesantos1414.github.io/contactflow/
@@ -48,3 +42,46 @@ This project was built as part of my transition into the tech field, focusing on
 ---
 
 ## 📁 Project Structure
+
+contactflow/
+│── index.html
+│── style.css
+│── app.js
+│── contatos.json
+
+---
+
+## 🎯 Purpose
+
+This project is part of my transition from public sector work to the technology field.
+
+I am currently focusing on:
+
+- Python development  
+- Cybersecurity fundamentals  
+- Building practical projects  
+
+---
+
+## 📈 Future Improvements
+
+- User authentication  
+- Backend integration  
+- Database support  
+- Role-based access control  
+- Security improvements  
+
+---
+
+## 👨‍💻 Author
+
+Felipe dos Santos
+
+---
+
+## 💡 Key Learning Outcomes
+
+- DOM manipulation with JavaScript  
+- Data handling with JSON  
+- UI structuring without frameworks  
+- Building real-world projects from scratch  
