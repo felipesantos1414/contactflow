@@ -3,24 +3,243 @@
   "contatos": [
     {
       "tipo": "vereador",
-      "nome": "Ana Rita (Ana da Apama)",
-      "cargo": "Primary Contact",
+      "nome": "Ana Rita da Silva Azambuja (Ana da Apama)",
+      "cargo": "Primary Contact | Office",
       "telefone": "51 95528-190",
-      "whatsapp": "555195528190"
+      "telefoneWhatsApp": "555195528190",
+      "busca": ["ana rita", "ana da apama", "office", "primary"]
     },
     {
       "tipo": "vereador",
-      "nome": "Neco",
-      "cargo": "Primary Contact",
+      "nome": "Oilquer João Soares dos Santos (Neco)",
+      "cargo": "Primary Contact | Presidency",
       "telefone": "51 93484-167",
-      "whatsapp": "555193484167"
+      "telefoneWhatsApp": "555193484167",
+      "busca": ["oilquer", "neco", "presidency", "primary"]
+    },
+    {
+      "tipo": "vereador",
+      "nome": "Antônio Marcos Silva de Oliveira",
+      "cargo": "Primary Contact | Office",
+      "telefone": "51 81263-472",
+      "telefoneWhatsApp": "555181263472",
+      "busca": ["antonio", "marcos", "oliveira", "office", "primary"]
+    },
+    {
+      "tipo": "vereador",
+      "nome": "Aquiles Mallmann (Cascão)",
+      "cargo": "Primary Contact | Office",
+      "telefone": "51 98805-146",
+      "telefoneWhatsApp": "555198805146",
+      "busca": ["aquiles", "mallmann", "cascao", "office", "primary"]
+    },
+    {
+      "tipo": "vereador",
+      "nome": "Ederson Fernando Spohr",
+      "cargo": "Primary Contact | Office",
+      "telefone": "51 96479-513",
+      "telefoneWhatsApp": "555196479513",
+      "busca": ["ederson", "spohr", "eder", "office", "primary"]
+    },
+    {
+      "tipo": "vereador",
+      "nome": "Fabiano Bergmann (Medonho)",
+      "cargo": "Primary Contact | Office",
+      "telefone": "51 97184-166",
+      "telefoneWhatsApp": "555197184166",
+      "busca": ["fabiano", "bergmann", "medonho", "office", "primary"]
+    },
+    {
+      "tipo": "vereador",
+      "nome": "Jones Barbosa da Silva (Vává)",
+      "cargo": "Primary Contact | Office",
+      "telefone": "51 93434-465",
+      "telefoneWhatsApp": "555193434465",
+      "busca": ["jones", "barbosa", "vava", "office", "primary"]
+    },
+    {
+      "tipo": "vereador",
+      "nome": "Lisandra Quinot",
+      "cargo": "Primary Contact | Office",
+      "telefone": "51 81846-169",
+      "telefoneWhatsApp": "555181846169",
+      "busca": ["lisandra", "quinot", "office", "primary"]
+    },
+    {
+      "tipo": "vereador",
+      "nome": "Luís André Benoitt",
+      "cargo": "Primary Contact | Office",
+      "telefone": "51 95557-338",
+      "telefoneWhatsApp": "555195557338",
+      "busca": ["luis", "andre", "benoitt", "office", "primary"]
+    },
+    {
+      "tipo": "vereador",
+      "nome": "Marquinhos Schefer",
+      "cargo": "Primary Contact | Office",
+      "telefone": "51 91820-006",
+      "telefoneWhatsApp": "555191820006",
+      "busca": ["marquinhos", "schefer", "office", "primary"]
+    },
+    {
+      "tipo": "vereador",
+      "nome": "Lorival Ewerling dos Santos Silveira",
+      "cargo": "Primary Contact | Office",
+      "telefone": "51 98024-7240",
+      "telefoneWhatsApp": "5551980247240",
+      "busca": ["lorival", "ewerling", "silveira", "office", "primary"]
+    },
+    {
+      "tipo": "vereador",
+      "nome": "Paula Daiana Thomas",
+      "cargo": "Primary Contact | Office",
+      "telefone": "51 85943-054",
+      "telefoneWhatsApp": "555185943054",
+      "busca": ["paula", "daiana", "thomas", "office", "primary"]
+    },
+    {
+      "tipo": "vereador",
+      "nome": "Rosane Cardoso",
+      "cargo": "Primary Contact | Office",
+      "telefone": "51 95752-148",
+      "telefoneWhatsApp": "555195752148",
+      "busca": ["rosane", "cardoso", "office", "primary"]
+    },
+    {
+      "tipo": "vereador",
+      "nome": "Vanderlan Marques Pereira (Mano Pereira)",
+      "cargo": "Primary Contact | Office",
+      "telefone": "51 95047-063",
+      "telefoneWhatsApp": "555195047063",
+      "busca": ["vanderlan", "mano pereira", "pereira", "office", "primary"]
+    },
+    {
+      "tipo": "vereador",
+      "nome": "Waldir Blau",
+      "cargo": "Primary Contact | Office",
+      "telefone": "51 97011-889",
+      "telefoneWhatsApp": "555197011889",
+      "busca": ["waldir", "blau", "office", "primary"]
     },
     {
       "tipo": "assessor",
-      "nome": "Fernando",
-      "cargo": "Support",
+      "nome": "Fernando Dallazen",
+      "cargo": "Support Contact | Team Ana da Apama",
       "telefone": "51 98839-775",
-      "whatsapp": "555198839775"
+      "telefoneWhatsApp": "555198839775",
+      "busca": ["fernando dallazen", "support", "ana da apama", "team"]
+    },
+    {
+      "tipo": "assessor",
+      "nome": "Fernanda",
+      "cargo": "Support Contact | Team Neco",
+      "telefone": "51 96855-369",
+      "telefoneWhatsApp": "555196855369",
+      "busca": ["fernanda", "support", "neco", "team"]
+    },
+    {
+      "tipo": "assessor",
+      "nome": "Fran",
+      "cargo": "Support Contact | Team Antônio",
+      "telefone": "51 96595-081",
+      "telefoneWhatsApp": "555196595081",
+      "busca": ["fran", "support", "antonio", "team"]
+    },
+    {
+      "tipo": "assessor",
+      "nome": "Ademir",
+      "cargo": "Support Contact | Team Cascão",
+      "telefone": "51 92649-282",
+      "telefoneWhatsApp": "555192649282",
+      "busca": ["ademir", "support", "cascao", "team"]
+    },
+    {
+      "tipo": "assessor",
+      "nome": "Lucas",
+      "cargo": "Support Contact | Team Medonho",
+      "telefone": "51 92224-999",
+      "telefoneWhatsApp": "555192224999",
+      "busca": ["lucas", "support", "medonho", "team"]
+    },
+    {
+      "tipo": "assessor",
+      "nome": "Fernanda",
+      "cargo": "Support Contact | Team Vává",
+      "telefone": "51 95137-171",
+      "telefoneWhatsApp": "555195137171",
+      "busca": ["fernanda", "support", "vava", "team"]
+    },
+    {
+      "tipo": "assessor",
+      "nome": "Mari",
+      "cargo": "Support Contact | Team Lisandra",
+      "telefone": "51 99201-248",
+      "telefoneWhatsApp": "555199201248",
+      "busca": ["mari", "support", "lisandra", "team"]
+    },
+    {
+      "tipo": "assessor",
+      "nome": "Ivan",
+      "cargo": "Support Contact | Team Eder Spohr",
+      "telefone": "51 99950-055",
+      "telefoneWhatsApp": "555199950055",
+      "busca": ["ivan", "support", "eder", "spohr", "team"]
+    },
+    {
+      "tipo": "assessor",
+      "nome": "Zé",
+      "cargo": "Support Contact | Team Benoitt",
+      "telefone": "51 80515-687",
+      "telefoneWhatsApp": "555180515687",
+      "busca": ["ze", "support", "benoitt", "team"]
+    },
+    {
+      "tipo": "assessor",
+      "nome": "Maira",
+      "cargo": "Support Contact | Team Marquinhos",
+      "telefone": "51 97450-609",
+      "telefoneWhatsApp": "555197450609",
+      "busca": ["maira", "support", "marquinhos", "team"]
+    },
+    {
+      "tipo": "assessor",
+      "nome": "Greice",
+      "cargo": "Support Contact | Team Lorival",
+      "telefone": "51 94424-610",
+      "telefoneWhatsApp": "555194424610",
+      "busca": ["greice", "support", "lorival", "team"]
+    },
+    {
+      "tipo": "assessor",
+      "nome": "Adri",
+      "cargo": "Support Contact | Team Paula",
+      "telefone": "51 99221-730",
+      "telefoneWhatsApp": "555199221730",
+      "busca": ["adri", "support", "paula", "team"]
+    },
+    {
+      "tipo": "assessor",
+      "nome": "Nadini",
+      "cargo": "Support Contact | Team Rosane",
+      "telefone": "51 98917-481",
+      "telefoneWhatsApp": "555198917481",
+      "busca": ["nadini", "support", "rosane", "team"]
+    },
+    {
+      "tipo": "assessor",
+      "nome": "Cátia",
+      "cargo": "Support Contact | Team Mano Pereira",
+      "telefone": "51 98645-716",
+      "telefoneWhatsApp": "555198645716",
+      "busca": ["catia", "support", "mano pereira", "team"]
+    },
+    {
+      "tipo": "assessor",
+      "nome": "Daria",
+      "cargo": "Support Contact | Team Waldir Blau",
+      "telefone": "51 98876-104",
+      "telefoneWhatsApp": "555198876104",
+      "busca": ["daria", "support", "waldir", "blau", "team"]
     }
   ]
 }
